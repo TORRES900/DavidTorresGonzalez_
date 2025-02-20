@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\T.O.R.R.E.S\\OneDrive\\Escritorio\\Movidas\\DavidTorresGonzalez\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB17BB7E-2431-52EE-C9E5-8EFF05CC1812}|Assembly-CSharp.csproj|c:\\users\\t.o.r.r.e.s\\onedrive\\escritorio\\movidas\\davidtorresgonzalez\\assets\\scripts\\tanks\\player\\tankhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB17BB7E-2431-52EE-C9E5-8EFF05CC1812}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tanks\\player\\tankhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB17BB7E-2431-52EE-C9E5-8EFF05CC1812}|Assembly-CSharp.csproj|C:\\Users\\T.O.R.R.E.S\\OneDrive\\Escritorio\\Movidas\\DavidTorresGonzalez\\assets\\scripts\\tanks\\player\\tankattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB17BB7E-2431-52EE-C9E5-8EFF05CC1812}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tanks\\player\\tankattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB17BB7E-2431-52EE-C9E5-8EFF05CC1812}|Assembly-CSharp.csproj|C:\\Users\\T.O.R.R.E.S\\OneDrive\\Escritorio\\Movidas\\DavidTorresGonzalez\\assets\\scripts\\tanks\\player\\tankmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB17BB7E-2431-52EE-C9E5-8EFF05CC1812}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tanks\\player\\tankmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB17BB7E-2431-52EE-C9E5-8EFF05CC1812}|Assembly-CSharp.csproj|C:\\Users\\T.O.R.R.E.S\\OneDrive\\Escritorio\\Movidas\\DavidTorresGonzalez\\assets\\scripts\\tanks\\enemy\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB17BB7E-2431-52EE-C9E5-8EFF05CC1812}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tanks\\enemy\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB17BB7E-2431-52EE-C9E5-8EFF05CC1812}|Assembly-CSharp.csproj|C:\\Users\\T.O.R.R.E.S\\OneDrive\\Escritorio\\Movidas\\DavidTorresGonzalez\\assets\\scripts\\tanks\\camerafollowtanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB17BB7E-2431-52EE-C9E5-8EFF05CC1812}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tanks\\camerafollowtanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB17BB7E-2431-52EE-C9E5-8EFF05CC1812}|Assembly-CSharp.csproj|C:\\Users\\T.O.R.R.E.S\\OneDrive\\Escritorio\\Movidas\\DavidTorresGonzalez\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB17BB7E-2431-52EE-C9E5-8EFF05CC1812}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB17BB7E-2431-52EE-C9E5-8EFF05CC1812}|Assembly-CSharp.csproj|C:\\Users\\T.O.R.R.E.S\\OneDrive\\Escritorio\\Movidas\\DavidTorresGonzalez\\assets\\scripts\\tanks\\gamemanagertanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB17BB7E-2431-52EE-C9E5-8EFF05CC1812}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tanks\\gamemanagertanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TankAttack.cs",
+              "DocumentMoniker": "C:\\Users\\T.O.R.R.E.S\\OneDrive\\Escritorio\\Movidas\\DavidTorresGonzalez\\Assets\\Scripts\\Tanks\\Player\\TankAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tanks\\Player\\TankAttack.cs",
+              "ToolTip": "C:\\Users\\T.O.R.R.E.S\\OneDrive\\Escritorio\\Movidas\\DavidTorresGonzalez\\Assets\\Scripts\\Tanks\\Player\\TankAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tanks\\Player\\TankAttack.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:20:17.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CameraFollowTanks.cs",
+              "DocumentMoniker": "C:\\Users\\T.O.R.R.E.S\\OneDrive\\Escritorio\\Movidas\\DavidTorresGonzalez\\Assets\\Scripts\\Tanks\\CameraFollowTanks.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tanks\\CameraFollowTanks.cs",
+              "ToolTip": "C:\\Users\\T.O.R.R.E.S\\OneDrive\\Escritorio\\Movidas\\DavidTorresGonzalez\\Assets\\Scripts\\Tanks\\CameraFollowTanks.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tanks\\CameraFollowTanks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:14:14.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\T.O.R.R.E.S\\OneDrive\\Escritorio\\Movidas\\DavidTorresGonzalez\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\T.O.R.R.E.S\\OneDrive\\Escritorio\\Movidas\\DavidTorresGonzalez\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:13:20.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameManagerTanks.cs",
+              "DocumentMoniker": "C:\\Users\\T.O.R.R.E.S\\OneDrive\\Escritorio\\Movidas\\DavidTorresGonzalez\\Assets\\Scripts\\Tanks\\GameManagerTanks.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tanks\\GameManagerTanks.cs",
+              "ToolTip": "C:\\Users\\T.O.R.R.E.S\\OneDrive\\Escritorio\\Movidas\\DavidTorresGonzalez\\Assets\\Scripts\\Tanks\\GameManagerTanks.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tanks\\GameManagerTanks.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T18:22:17.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TankHealth.cs",
+              "DocumentMoniker": "C:\\Users\\T.O.R.R.E.S\\OneDrive\\Escritorio\\Movidas\\DavidTorresGonzalez\\Assets\\Scripts\\Tanks\\Player\\TankHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tanks\\Player\\TankHealth.cs",
+              "ToolTip": "C:\\Users\\T.O.R.R.E.S\\OneDrive\\Escritorio\\Movidas\\DavidTorresGonzalez\\Assets\\Scripts\\Tanks\\Player\\TankHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tanks\\Player\\TankHealth.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:11:56.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TankMovement.cs",
+              "DocumentMoniker": "C:\\Users\\T.O.R.R.E.S\\OneDrive\\Escritorio\\Movidas\\DavidTorresGonzalez\\Assets\\Scripts\\Tanks\\Player\\TankMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tanks\\Player\\TankMovement.cs",
+              "ToolTip": "C:\\Users\\T.O.R.R.E.S\\OneDrive\\Escritorio\\Movidas\\DavidTorresGonzalez\\Assets\\Scripts\\Tanks\\Player\\TankMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tanks\\Player\\TankMovement.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:20:00.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyManager.cs",
+              "DocumentMoniker": "C:\\Users\\T.O.R.R.E.S\\OneDrive\\Escritorio\\Movidas\\DavidTorresGonzalez\\Assets\\Scripts\\Tanks\\Enemy\\EnemyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tanks\\Enemy\\EnemyManager.cs",
+              "ToolTip": "C:\\Users\\T.O.R.R.E.S\\OneDrive\\Escritorio\\Movidas\\DavidTorresGonzalez\\Assets\\Scripts\\Tanks\\Enemy\\EnemyManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tanks\\Enemy\\EnemyManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:54:21.85Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
